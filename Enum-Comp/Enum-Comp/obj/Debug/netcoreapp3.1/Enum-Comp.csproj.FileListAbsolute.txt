@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\bin\Debug\netcoreapp3.1\Enum-Comp.exe
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\bin\Debug\netcoreapp3.1\Enum-Comp.deps.json
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\bin\Debug\netcoreapp3.1\Enum-Comp.runtimeconfig.json
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\bin\Debug\netcoreapp3.1\Enum-Comp.runtimeconfig.dev.json
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\bin\Debug\netcoreapp3.1\Enum-Comp.dll
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\bin\Debug\netcoreapp3.1\Enum-Comp.pdb
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\obj\Debug\netcoreapp3.1\Enum-Comp.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\obj\Debug\netcoreapp3.1\Enum-Comp.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\obj\Debug\netcoreapp3.1\Enum-Comp.AssemblyInfo.cs
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\obj\Debug\netcoreapp3.1\Enum-Comp.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\obj\Debug\netcoreapp3.1\Enum-Comp.dll
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\obj\Debug\netcoreapp3.1\Enum-Comp.pdb
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Enum-Comp\Enum-Comp\obj\Debug\netcoreapp3.1\Enum-Comp.genruntimeconfig.cache

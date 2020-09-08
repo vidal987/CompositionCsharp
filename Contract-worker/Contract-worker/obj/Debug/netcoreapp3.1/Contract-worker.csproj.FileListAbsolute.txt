@@ -1,0 +1,13 @@
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\obj\Debug\netcoreapp3.1\Contract-worker.csprojAssemblyReference.cache
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\obj\Debug\netcoreapp3.1\Contract-worker.AssemblyInfoInputs.cache
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\obj\Debug\netcoreapp3.1\Contract-worker.AssemblyInfo.cs
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\obj\Debug\netcoreapp3.1\Contract-worker.csproj.CoreCompileInputs.cache
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\bin\Debug\netcoreapp3.1\Contract-worker.exe
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\bin\Debug\netcoreapp3.1\Contract-worker.deps.json
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\bin\Debug\netcoreapp3.1\Contract-worker.runtimeconfig.json
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\bin\Debug\netcoreapp3.1\Contract-worker.runtimeconfig.dev.json
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\bin\Debug\netcoreapp3.1\Contract-worker.dll
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\bin\Debug\netcoreapp3.1\Contract-worker.pdb
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\obj\Debug\netcoreapp3.1\Contract-worker.dll
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\obj\Debug\netcoreapp3.1\Contract-worker.pdb
+C:\Users\vidal\Documents\www\Enumeracoes-e-composicoes-C#\Contract-worker\Contract-worker\obj\Debug\netcoreapp3.1\Contract-worker.genruntimeconfig.cache
